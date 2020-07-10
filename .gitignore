@@ -1,5 +1,6 @@
 getTwitterId/keysAuthentication.py
 db/*
+*keysAuthentication*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
